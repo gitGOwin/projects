@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-07-24",
+        "date_end": "2015-07-25",
+        "place": "Butuan, AGN",
+        "organizer": "The Asia Foundation",
+        "host": 0,
+        "program": "Workshop",
+        "description": "with various local bicycling groups",
+        "theme": "Participatory Mapping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.5291199684,
+          8.9534570572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-08-20",
+        "date_end": "2015-08-21",
+        "place": "Dumaguete, NEC",
+        "organizer": "The Asia Foundation",
+        "host": "Negros Oriental PDO",
+        "program": "Workshop",
+        "description": "with Provincial Planning and Development Office, and various biker groups in Negros Oriental",
+        "theme": "Participatory Mapping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2851409912,
+          9.3176350233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-05",
+        "date_end": "2015-05",
+        "place": "Iloilo, ILI",
+        "organizer": "The Asia Foundation",
+        "host": 0,
+        "program": "Workshop",
+        "description": "with various local bicycling groups",
+        "theme": "Participatory Mapping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5664377213,
+          10.6944722992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-07-17",
+        "date_end": "2015-07-17",
+        "place": "Tagbilaran, BOH",
+        "organizer": "The Asia Foundation",
+        "host": "Bohol LGU",
+        "program": "Workshop",
+        "description": "with Bohol provincial government and biker groups",
+        "theme": "Participatory Mapping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8632965088,
+          9.6603231683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-07-11",
+        "date_end": "2015-07-12",
+        "place": "Baybay, LEY",
+        "organizer": "Map the Philippines",
+        "host": "Baybay LGU",
+        "program": "Workshop",
+        "description": 0,
+        "theme": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.8022842407,
+          10.6774773397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-04-10",
+        "date_end": "2015-04-12",
+        "place": "Lipa, BAT",
+        "organizer": "Map the Philippines / OpenRoads",
+        "host": 0,
+        "program": "Workshop",
+        "description": "World Bank OpenRoads Project for certain muncipalities in Batangas",
+        "theme": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0830688477,
+          13.7900714372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-06-15",
+        "date_end": "2015-06-19",
+        "place": "Manila, NCR",
+        "organizer": "Map the Philippines",
+        "host": "FEU Institute of Technology",
+        "program": "ToT Workshop",
+        "description": "FEU Train the Trainer Workshop, organized by  Celina Agaton",
+        "theme": "OpenStreetMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9885960817,
+          14.6040892558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-08-22",
+        "date_end": "2015-08-22",
+        "place": "Dumaguete, NEC",
+        "organizer": "Mapping for Every Juan",
+        "host": "Silliman University",
+        "program": "Seminar",
+        "description": "OSM Appreciation Seminar hosted by the Silliman University, 2015 August",
+        "theme": "Participatory Mapping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3072048426,
+          9.3117855027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-08-24",
+        "date_end": "2015-08-24",
+        "place": "Dumaguete, NEC",
+        "organizer": "Mapping for Every Juan",
+        "host": "Foundation University",
+        "program": "Seminar",
+        "description": "OSM Appreciation Seminar hosted by the Foundation University, 2015 August",
+        "theme": "Participatory Mapping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2998609543,
+          9.3058194201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "",
+        "date_end": "",
+        "place": "Cebu City, CEB",
+        "organizer": "The Asia Foundaiton",
+        "host": "n.a.",
+        "program": "Workshop",
+        "description": "Proposed site",
+        "theme": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9723014832,
+          10.3064748195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-03-30",
+        "date_end": "2015-04-01",
+        "place": "Busuanga, PLW",
+        "organizer": "Schweizerisches Rotes Kreuz",
+        "host": "Busuanga DRRMO",
+        "program": "Workshop",
+        "description": "Training and Mapping. Schweizerisches Rotes Kreuz (SRK) and Palawan Philippine Red Cross with LGU of Busuanga",
+        "theme": "DRR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9357914925,
+          12.1329424096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-09-05",
+        "date_end": "2015-09-05",
+        "place": "Taguig, NCR",
+        "organizer": "Philippine Disaster Recovery Foundation",
+        "host": "HSBC Philippines",
+        "program": "Seminar",
+        "description": "Organized by the PDRF and hosted by the HSBC, the workshop is a quick introduction to OpenStreetMap platform, and as a tool for crisis mapping",
+        "theme": "DRR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0480338335,
+          14.5536675192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2015-06-01",
+        "date_end": "2015-06-30",
+        "place": "Luzon island",
+        "organizer": "World Health Organization - Maternal Care Package Project",
+        "host": "n.a.",
+        "program": "Mapping Project",
+        "description": "WHO-MCP Luzon Road and River Network Mapping\nof the World Health Organization's Maternal Care Package Project",
+        "theme": "Roads and rivers network of Luzon island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9484863281,
+          15.5807107392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2013-10-23",
+        "date_end": "2013-10-25",
+        "place": "Lubao, PAM",
+        "organizer": "Environmental Science for Social Change",
+        "host": "Lubao LGU",
+        "program": "Workshop",
+        "description": "Participatory mapping and LGU decision support tools for DRR. Funded by the World Bank, implemented by ESSC.",
+        "theme": "DRR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6007432938,
+          14.9378188564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2013-11-05",
+        "date_end": "2013-11-07",
+        "place": "Guagua, PAM",
+        "organizer": "Environmental Science for Social Change",
+        "host": "Guagua LGU",
+        "program": "Workshop",
+        "description": "Participatory mapping and LGU decision support tools for DRR. Funded by the World Bank, implemented by ESSC.",
+        "theme": "DRR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6351184845,
+          14.9655157355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": 2013,
+        "date_end": 2013,
+        "place": "Candaba, PAM",
+        "organizer": "Environmental Science for Social Change",
+        "host": "Candaba LGU",
+        "program": "Workshop",
+        "description": "Participatory mapping and LGU decision support tools for DRR. Funded by the World Bank, implemented by ESSC.",
+        "theme": "DRR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8214569092,
+          15.0916818661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_start": "2014-03-26",
+        "date_end": "2014-03-27",
+        "place": "Zamboanga City, PH",
+        "organizer": "Mapping for Every Juan",
+        "host": "Universidad de Zamboanga",
+        "program": "Seminar",
+        "description": "OSM appreciation seminar with students of the University of Zamboanga, with participants from the Zamboanga City LGU, and community members                                                                                                                  \u001a",
+        "theme": "Introduction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0794719458,
+          6.9138696991
+        ]
+      }
+    }
+  ]
+}
